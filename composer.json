@@ -1,0 +1,19 @@
+{
+    "name": "mathias/poo2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sankot23",
+            "email": "s.bacot@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^5.4",
+        "fakerphp/faker": "^1.21"
+    }
+}

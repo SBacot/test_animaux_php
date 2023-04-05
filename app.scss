@@ -1,0 +1,28 @@
+$img-size: 200px;
+
+.animal{
+
+ .card-img-top{
+
+    height: $img-size;
+    object-fit: cover; 
+}
+
+.card-body{
+    background-color:rgba(95, 158, 160, 0.384) ;
+    text-align: center;
+}
+
+
+
+.list-group li{
+    background-color: rgba(95, 158, 160, 0.205);
+    text-align: center;
+    border: none;
+    border-radius: 15px;
+    margin-bottom: 5px;
+}
+.list-group li:hover{
+    background-color: rgba(95, 158, 160, 0.301);
+}
+}

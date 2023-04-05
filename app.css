@@ -1,0 +1,19 @@
+.animal .card-img-top {
+  height: 200px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.animal .card-body {
+  background-color: rgba(95, 158, 160, 0.384);
+  text-align: center;
+}
+.animal .list-group li {
+  background-color: rgba(95, 158, 160, 0.205);
+  text-align: center;
+  border: none;
+  border-radius: 15px;
+  margin-bottom: 5px;
+}
+.animal .list-group li:hover {
+  background-color: rgba(95, 158, 160, 0.301);
+}/*# sourceMappingURL=app.css.map */
